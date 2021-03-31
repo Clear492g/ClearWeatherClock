@@ -1,0 +1,29 @@
+ /*功能一：修改RGB颜色*/
+{
+"RGB11":52,
+"RGB12":152,	
+"RGB13":219
+}
+
+
+/*功能2：修改WIFI/密码以及天气API*/
+{
+"SSID":"Clear9700",
+"PWD":"918888888",
+"WEATHER_ID":"3213ac05f30cc2f7d8d8da6d2b03f2e8",
+"LOCATION":"1816670"
+}
+WEATHER_ID=ClearReset时  重置信息
+
+/*功能三：读取当前各个数字的RGB值*/
+{
+"ReadRGB":492
+}
+
+
+
+/*                      库 
+ *Time json-streaming-parser esp8266-weather-station 
+  esp8266-oled-ssd1306  Adafruit-GFX  Adafruit_SSD1306
+  NeoPixelBus Wire  EEPROM  DallasTemperature  
+*/
